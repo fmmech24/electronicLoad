@@ -6,3 +6,4 @@ build with Target3001!
 not tested!
 #
 ![complete module](https://github.com/fmmech24/electronicLoad/blob/master/IMG_20200319_101620.jpg)
+![complete module](https://github.com/fmmech24/electronicLoad/blob/master/IMG_20200319_105116.jpg)
